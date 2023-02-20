@@ -1,4 +1,4 @@
-# Visor para el datalogger de un sismómetro:
+# [Visor para el datalogger de un sismómetro](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1JXSYT):
 
 El proyecto consiste de un sistema de digitalización, almacenamiento y visualización de datos proveniente de un sismómetro tipo SM-6; un [Conversor Análogo/Digital](https://github.com/rommeljose/Conversor-A-D) diseñado en base a un PIC. Se estudió e implementó el diseño del preamplificador presentado por **Havskov & Alguacil (2006)**, y se agregó un sistema de acondicionamiento y filtrado de los datos compuestos por celdas tipo Sallen Key (un filtro pasa bajo y un pasa altos). La base teórica del sistema datalogger, está documentada y explicada en el artículo anexo al proyecto: [El Sensor Sísmico Geófono](http://tecnologiacumanesa.blogspot.com/2015/05/el-sensor-sismico-geofono.html); publicada en el blog del autor.
 
